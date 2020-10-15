@@ -17,9 +17,12 @@ _“The secret of getting ahead is getting started.”_
 Never Gets tired Of helping Others.
 
 
-| Birthday  | Favorite color  |  Favorite food |  Pinneapple on pizza |
-|---|---|---|---|---|
-|  06/09 | Black  |  Afghani Hashak | - [x] yes |
+
+| Birthday     | 06/09 | 
+| Favourite color      | Black      |
+| Favourite food    | Afghani Hashak      | 
+| Pinneapple on pizza: |&#9745;] YES /&#9744; NO      | 
+
 
 
  
